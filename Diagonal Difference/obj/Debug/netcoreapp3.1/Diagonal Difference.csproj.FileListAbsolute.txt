@@ -1,0 +1,11 @@
+c:\Users\y_ouc\Documents\hackerrank\Diagonal Difference\bin\Debug\netcoreapp3.1\Diagonal Difference.exe
+C:\Users\y_ouc\Documents\hackerrank\Diagonal Difference\bin\Debug\netcoreapp3.1\Diagonal Difference.deps.json
+C:\Users\y_ouc\Documents\hackerrank\Diagonal Difference\bin\Debug\netcoreapp3.1\Diagonal Difference.runtimeconfig.json
+C:\Users\y_ouc\Documents\hackerrank\Diagonal Difference\bin\Debug\netcoreapp3.1\Diagonal Difference.runtimeconfig.dev.json
+c:\Users\y_ouc\Documents\hackerrank\Diagonal Difference\bin\Debug\netcoreapp3.1\Diagonal Difference.dll
+c:\Users\y_ouc\Documents\hackerrank\Diagonal Difference\bin\Debug\netcoreapp3.1\Diagonal Difference.pdb
+c:\Users\y_ouc\Documents\hackerrank\Diagonal Difference\obj\Debug\netcoreapp3.1\Diagonal Difference.csprojAssemblyReference.cache
+c:\Users\y_ouc\Documents\hackerrank\Diagonal Difference\obj\Debug\netcoreapp3.1\Diagonal Difference.AssemblyInfoInputs.cache
+c:\Users\y_ouc\Documents\hackerrank\Diagonal Difference\obj\Debug\netcoreapp3.1\Diagonal Difference.AssemblyInfo.cs
+c:\Users\y_ouc\Documents\hackerrank\Diagonal Difference\obj\Debug\netcoreapp3.1\Diagonal Difference.dll
+c:\Users\y_ouc\Documents\hackerrank\Diagonal Difference\obj\Debug\netcoreapp3.1\Diagonal Difference.pdb
