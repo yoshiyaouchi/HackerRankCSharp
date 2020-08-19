@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\y_ouc\\Documents\\hackerrank\\Time Conversion\\Time Conversion.csproj": {}
+    "C:\\Users\\y_ouc\\Documents\\CSharp\\HackerRankCSharp\\Time Conversion\\Time Conversion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\y_ouc\\Documents\\hackerrank\\Time Conversion\\Time Conversion.csproj": {
+    "C:\\Users\\y_ouc\\Documents\\CSharp\\HackerRankCSharp\\Time Conversion\\Time Conversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\y_ouc\\Documents\\hackerrank\\Time Conversion\\Time Conversion.csproj",
+        "projectUniqueName": "C:\\Users\\y_ouc\\Documents\\CSharp\\HackerRankCSharp\\Time Conversion\\Time Conversion.csproj",
         "projectName": "Time Conversion",
-        "projectPath": "C:\\Users\\y_ouc\\Documents\\hackerrank\\Time Conversion\\Time Conversion.csproj",
+        "projectPath": "C:\\Users\\y_ouc\\Documents\\CSharp\\HackerRankCSharp\\Time Conversion\\Time Conversion.csproj",
         "packagesPath": "C:\\Users\\y_ouc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\y_ouc\\Documents\\hackerrank\\Time Conversion\\obj\\",
+        "outputPath": "C:\\Users\\y_ouc\\Documents\\CSharp\\HackerRankCSharp\\Time Conversion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\y_ouc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\y_ouc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
