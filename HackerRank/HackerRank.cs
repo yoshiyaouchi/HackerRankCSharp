@@ -7,8 +7,8 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            MigratoryBirds mb = new MigratoryBirds();
-            mb.Run();
+            DayOfTheProgrammer dp = new DayOfTheProgrammer();
+            dp.Run();
         }
     }
 }
