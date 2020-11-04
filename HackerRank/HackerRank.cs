@@ -7,8 +7,8 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            DayOfTheProgrammer dp = new DayOfTheProgrammer();
-            dp.Run();
+            BillDivision bd = new BillDivision();
+            bd.Run();
         }
     }
 }
