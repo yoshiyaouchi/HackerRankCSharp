@@ -7,8 +7,8 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            DivisibleSumPairs dsp = new DivisibleSumPairs();
-            dsp.Run();
+            MigratoryBirds mb = new MigratoryBirds();
+            mb.Run();
         }
     }
 }
