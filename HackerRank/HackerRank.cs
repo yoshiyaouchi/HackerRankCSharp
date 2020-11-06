@@ -7,8 +7,8 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            BillDivision bd = new BillDivision();
-            bd.Run();
+            SalesByMatch sm = new SalesByMatch();
+            sm.Run();
         }
     }
 }
