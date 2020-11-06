@@ -7,8 +7,8 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            SalesByMatch sm = new SalesByMatch();
-            sm.Run();
+            PickingNumbers pn = new PickingNumbers();
+            pn.Run();
         }
     }
 }
